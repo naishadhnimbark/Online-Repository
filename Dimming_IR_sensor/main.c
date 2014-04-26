@@ -1,4 +1,5 @@
 #include <msp430g2553.h>
+#define k 0
 
 #define     LED0                  BIT0
 #define     LED1                  BIT6
